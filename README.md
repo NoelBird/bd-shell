@@ -1,6 +1,6 @@
 # bd-shell
 
-![1564729308214](C:\Users\user\Documents\bd-shell\docs\img\main.png)
+![](docs\img\main.png)
 
 
 
