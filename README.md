@@ -1,6 +1,6 @@
 # bd-shell
 
-![이미지 안떠요 왜](docs\img\main.png)
+![main.png](docs/img/main.png)
 
 
 
